@@ -1,0 +1,1174 @@
+
+     0  39.592
+     1 epicenter=[39.592,77.747],depth= 0.000km,velo= 1.000km/s,misfit(sum)=1556.722s,misfit(average)=55.597s
+     2 epicenter=[39.592,77.747],depth= 0.000km,velo= 1.200km/s,misfit(sum)=1288.961s,misfit(average)=46.034s
+     3 epicenter=[39.592,77.747],depth= 0.000km,velo= 1.400km/s,misfit(sum)=1110.152s,misfit(average)=39.648s
+     4 epicenter=[39.592,77.747],depth= 0.000km,velo= 1.600km/s,misfit(sum)=977.883s,misfit(average)=34.924s
+     5 epicenter=[39.592,77.747],depth= 0.000km,velo= 1.800km/s,misfit(sum)=881.663s,misfit(average)=31.488s
+     6 epicenter=[39.592,77.747],depth= 0.000km,velo= 2.000km/s,misfit(sum)=805.897s,misfit(average)=28.782s
+     7 epicenter=[39.592,77.747],depth= 0.000km,velo= 2.200km/s,misfit(sum)=743.906s,misfit(average)=26.568s
+     8 epicenter=[39.592,77.747],depth= 0.000km,velo= 2.400km/s,misfit(sum)=692.247s,misfit(average)=24.723s
+     9 epicenter=[39.592,77.747],depth= 0.000km,velo= 2.600km/s,misfit(sum)=648.536s,misfit(average)=23.162s
+    10 epicenter=[39.592,77.747],depth= 0.000km,velo= 2.800km/s,misfit(sum)=616.380s,misfit(average)=22.014s
+    11 epicenter=[39.592,77.747],depth= 0.000km,velo= 3.000km/s,misfit(sum)=591.955s,misfit(average)=21.141s
+    12 epicenter=[39.592,77.747],depth= 0.000km,velo= 3.200km/s,misfit(sum)=570.583s,misfit(average)=20.378s
+    13 epicenter=[39.592,77.747],depth= 0.000km,velo= 3.400km/s,misfit(sum)=551.725s,misfit(average)=19.704s
+    14 epicenter=[39.592,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=534.962s,misfit(average)=19.106s
+    15 epicenter=[39.592,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=519.964s,misfit(average)=18.570s
+    16 epicenter=[39.592,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=506.466s,misfit(average)=18.088s
+    17 epicenter=[39.592,77.747],depth= 0.000km,velo= 4.200km/s,misfit(sum)=494.254s,misfit(average)=17.652s
+    18 epicenter=[39.592,77.747],depth= 0.000km,velo= 4.400km/s,misfit(sum)=483.151s,misfit(average)=17.255s
+    19 epicenter=[39.592,77.747],depth= 0.000km,velo= 4.600km/s,misfit(sum)=473.014s,misfit(average)=16.893s
+    20 epicenter=[39.592,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=463.722s,misfit(average)=16.561s
+    21 epicenter=[39.592,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=456.635s,misfit(average)=16.308s
+    22 epicenter=[39.592,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=451.303s,misfit(average)=16.118s
+    23 epicenter=[39.592,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=446.366s,misfit(average)=15.942s
+    24 epicenter=[39.592,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=441.781s,misfit(average)=15.778s
+    25 epicenter=[39.592,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=437.806s,misfit(average)=15.636s
+    26 epicenter=[39.592,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=436.746s,misfit(average)=15.598s
+    27 epicenter=[39.592,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=435.754s,misfit(average)=15.563s
+    28 epicenter=[39.592,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=434.825s,misfit(average)=15.529s
+    29 epicenter=[39.592,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=433.951s,misfit(average)=15.498s
+    30 epicenter=[39.592,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=433.129s,misfit(average)=15.469s
+
+     1  39.602
+    31 epicenter=[39.602,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=432.723s,misfit(average)=15.454s
+
+     2  39.612
+    32 epicenter=[39.612,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=432.313s,misfit(average)=15.440s
+
+     3  39.622
+    33 epicenter=[39.622,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=431.898s,misfit(average)=15.425s
+
+     4  39.632
+    34 epicenter=[39.632,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=431.479s,misfit(average)=15.410s
+
+     5  39.642
+    35 epicenter=[39.642,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=431.055s,misfit(average)=15.395s
+
+     6  39.652
+    36 epicenter=[39.652,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=430.626s,misfit(average)=15.380s
+
+     7  39.662
+    37 epicenter=[39.662,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=430.193s,misfit(average)=15.364s
+
+     8  39.672
+    38 epicenter=[39.672,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=429.754s,misfit(average)=15.348s
+
+     9  39.682
+    39 epicenter=[39.682,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=429.311s,misfit(average)=15.333s
+
+    10  39.692
+    40 epicenter=[39.692,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=428.863s,misfit(average)=15.317s
+
+    11  39.702
+    41 epicenter=[39.702,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=428.410s,misfit(average)=15.300s
+
+    12  39.712
+    42 epicenter=[39.712,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=427.952s,misfit(average)=15.284s
+
+    13  39.722
+    43 epicenter=[39.722,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=427.489s,misfit(average)=15.267s
+
+    14  39.732
+    44 epicenter=[39.732,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=427.020s,misfit(average)=15.251s
+
+    15  39.742
+    45 epicenter=[39.742,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=426.547s,misfit(average)=15.234s
+
+    16  39.752
+    46 epicenter=[39.752,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=426.068s,misfit(average)=15.217s
+
+    17  39.762
+    47 epicenter=[39.762,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=425.583s,misfit(average)=15.199s
+
+    18  39.772
+    48 epicenter=[39.772,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=425.093s,misfit(average)=15.182s
+
+    19  39.782
+    49 epicenter=[39.782,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=424.598s,misfit(average)=15.164s
+
+    20  39.792
+    50 epicenter=[39.792,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=424.096s,misfit(average)=15.146s
+
+    21  39.802
+    51 epicenter=[39.802,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=423.590s,misfit(average)=15.128s
+
+    22  39.812
+    52 epicenter=[39.812,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=423.101s,misfit(average)=15.111s
+
+    23  39.822
+    53 epicenter=[39.822,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=422.608s,misfit(average)=15.093s
+
+    24  39.832
+    54 epicenter=[39.832,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=422.598s,misfit(average)=15.093s
+    55 epicenter=[39.832,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=422.110s,misfit(average)=15.075s
+
+    25  39.842
+    56 epicenter=[39.842,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=422.079s,misfit(average)=15.074s
+    57 epicenter=[39.842,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=421.606s,misfit(average)=15.057s
+
+    26  39.852
+    58 epicenter=[39.852,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=421.553s,misfit(average)=15.055s
+    59 epicenter=[39.852,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=421.096s,misfit(average)=15.039s
+
+    27  39.862
+    60 epicenter=[39.862,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=421.022s,misfit(average)=15.036s
+    61 epicenter=[39.862,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=420.580s,misfit(average)=15.021s
+
+    28  39.872
+    62 epicenter=[39.872,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=420.484s,misfit(average)=15.017s
+    63 epicenter=[39.872,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=420.058s,misfit(average)=15.002s
+
+    29  39.882
+    64 epicenter=[39.882,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=419.940s,misfit(average)=14.998s
+    65 epicenter=[39.882,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=419.530s,misfit(average)=14.983s
+
+    30  39.892
+    66 epicenter=[39.892,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=419.390s,misfit(average)=14.978s
+    67 epicenter=[39.892,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=418.996s,misfit(average)=14.964s
+
+    31  39.902
+    68 epicenter=[39.902,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=418.833s,misfit(average)=14.958s
+    69 epicenter=[39.902,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=418.455s,misfit(average)=14.945s
+
+    32  39.912
+    70 epicenter=[39.912,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=418.270s,misfit(average)=14.938s
+    71 epicenter=[39.912,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=417.909s,misfit(average)=14.925s
+
+    33  39.922
+    72 epicenter=[39.922,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=417.700s,misfit(average)=14.918s
+    73 epicenter=[39.922,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=417.356s,misfit(average)=14.906s
+
+    34  39.932
+    74 epicenter=[39.932,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=417.124s,misfit(average)=14.897s
+    75 epicenter=[39.932,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=416.797s,misfit(average)=14.886s
+
+    35  39.942
+    76 epicenter=[39.942,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=416.541s,misfit(average)=14.876s
+    77 epicenter=[39.942,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=416.231s,misfit(average)=14.865s
+
+    36  39.952
+    78 epicenter=[39.952,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=415.952s,misfit(average)=14.855s
+    79 epicenter=[39.952,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=415.659s,misfit(average)=14.845s
+
+    37  39.962
+    80 epicenter=[39.962,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=415.648s,misfit(average)=14.845s
+    81 epicenter=[39.962,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=415.355s,misfit(average)=14.834s
+    82 epicenter=[39.962,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=415.080s,misfit(average)=14.824s
+
+    38  39.972
+    83 epicenter=[39.972,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=415.026s,misfit(average)=14.822s
+    84 epicenter=[39.972,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=414.752s,misfit(average)=14.813s
+    85 epicenter=[39.972,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=414.495s,misfit(average)=14.803s
+
+    39  39.982
+    86 epicenter=[39.982,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=414.396s,misfit(average)=14.800s
+    87 epicenter=[39.982,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=414.142s,misfit(average)=14.791s
+    88 epicenter=[39.982,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=413.903s,misfit(average)=14.782s
+
+    40  39.992
+    89 epicenter=[39.992,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=413.760s,misfit(average)=14.777s
+    90 epicenter=[39.992,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=413.525s,misfit(average)=14.769s
+    91 epicenter=[39.992,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=413.304s,misfit(average)=14.761s
+
+    41  40.002
+    92 epicenter=[40.002,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=413.116s,misfit(average)=14.754s
+    93 epicenter=[40.002,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=412.901s,misfit(average)=14.746s
+    94 epicenter=[40.002,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=412.698s,misfit(average)=14.739s
+
+    42  40.012
+    95 epicenter=[40.012,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=412.674s,misfit(average)=14.738s
+    96 epicenter=[40.012,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=412.465s,misfit(average)=14.731s
+    97 epicenter=[40.012,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=412.270s,misfit(average)=14.724s
+    98 epicenter=[40.012,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=412.085s,misfit(average)=14.717s
+
+    43  40.022
+    99 epicenter=[40.022,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=411.994s,misfit(average)=14.714s
+   100 epicenter=[40.022,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=411.807s,misfit(average)=14.707s
+   101 epicenter=[40.022,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=411.631s,misfit(average)=14.701s
+   102 epicenter=[40.022,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=411.465s,misfit(average)=14.695s
+
+    44  40.032
+   103 epicenter=[40.032,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=411.307s,misfit(average)=14.690s
+   104 epicenter=[40.032,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=411.141s,misfit(average)=14.684s
+   105 epicenter=[40.032,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=410.985s,misfit(average)=14.678s
+   106 epicenter=[40.032,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=410.839s,misfit(average)=14.673s
+
+    45  40.042
+   107 epicenter=[40.042,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=410.766s,misfit(average)=14.670s
+   108 epicenter=[40.042,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=410.612s,misfit(average)=14.665s
+   109 epicenter=[40.042,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=410.468s,misfit(average)=14.660s
+   110 epicenter=[40.042,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=410.332s,misfit(average)=14.655s
+   111 epicenter=[40.042,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=410.205s,misfit(average)=14.650s
+
+    46  40.052
+   112 epicenter=[40.052,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=410.179s,misfit(average)=14.649s
+   113 epicenter=[40.052,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=410.039s,misfit(average)=14.644s
+   114 epicenter=[40.052,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=409.909s,misfit(average)=14.640s
+   115 epicenter=[40.052,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=409.787s,misfit(average)=14.635s
+   116 epicenter=[40.052,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=409.672s,misfit(average)=14.631s
+   117 epicenter=[40.052,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=409.564s,misfit(average)=14.627s
+
+    47  40.062
+   118 epicenter=[40.062,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=409.541s,misfit(average)=14.626s
+   119 epicenter=[40.062,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=409.419s,misfit(average)=14.622s
+   120 epicenter=[40.062,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=409.305s,misfit(average)=14.618s
+   121 epicenter=[40.062,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=409.198s,misfit(average)=14.614s
+   122 epicenter=[40.062,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=409.098s,misfit(average)=14.611s
+   123 epicenter=[40.062,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=409.004s,misfit(average)=14.607s
+   124 epicenter=[40.062,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=408.916s,misfit(average)=14.604s
+
+    48  40.072
+   125 epicenter=[40.072,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=408.745s,misfit(average)=14.598s
+   126 epicenter=[40.072,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=408.650s,misfit(average)=14.595s
+   127 epicenter=[40.072,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=408.562s,misfit(average)=14.592s
+   128 epicenter=[40.072,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=408.479s,misfit(average)=14.589s
+   129 epicenter=[40.072,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=408.402s,misfit(average)=14.586s
+   130 epicenter=[40.072,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=408.329s,misfit(average)=14.583s
+   131 epicenter=[40.072,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=408.261s,misfit(average)=14.581s
+
+    49  40.082
+   132 epicenter=[40.082,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=407.940s,misfit(average)=14.569s
+   133 epicenter=[40.082,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=407.874s,misfit(average)=14.567s
+   134 epicenter=[40.082,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=407.811s,misfit(average)=14.565s
+   135 epicenter=[40.082,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=407.753s,misfit(average)=14.563s
+   136 epicenter=[40.082,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=407.698s,misfit(average)=14.561s
+   137 epicenter=[40.082,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=407.646s,misfit(average)=14.559s
+   138 epicenter=[40.082,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=407.598s,misfit(average)=14.557s
+
+    50  40.092
+   139 epicenter=[40.092,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=407.127s,misfit(average)=14.540s
+   140 epicenter=[40.092,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=407.088s,misfit(average)=14.539s
+   141 epicenter=[40.092,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=407.052s,misfit(average)=14.538s
+   142 epicenter=[40.092,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=407.018s,misfit(average)=14.536s
+   143 epicenter=[40.092,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=406.986s,misfit(average)=14.535s
+   144 epicenter=[40.092,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=406.956s,misfit(average)=14.534s
+   145 epicenter=[40.092,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=406.928s,misfit(average)=14.533s
+
+    51  40.102
+   146 epicenter=[40.102,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=406.304s,misfit(average)=14.511s
+   147 epicenter=[40.102,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=406.294s,misfit(average)=14.510s
+   148 epicenter=[40.102,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=406.284s,misfit(average)=14.510s
+   149 epicenter=[40.102,77.747],depth= 0.000km,velo= 6.200km/s,misfit(sum)=406.275s,misfit(average)=14.510s
+   150 epicenter=[40.102,77.747],depth= 0.000km,velo= 6.400km/s,misfit(sum)=406.266s,misfit(average)=14.510s
+   151 epicenter=[40.102,77.747],depth= 0.000km,velo= 6.600km/s,misfit(sum)=406.258s,misfit(average)=14.509s
+   152 epicenter=[40.102,77.747],depth= 0.000km,velo= 6.800km/s,misfit(sum)=406.251s,misfit(average)=14.509s
+
+    52  40.112
+   153 epicenter=[40.112,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=405.473s,misfit(average)=14.481s
+
+    53  40.122
+   154 epicenter=[40.122,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=404.632s,misfit(average)=14.451s
+
+    54  40.132
+   155 epicenter=[40.132,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=403.783s,misfit(average)=14.421s
+
+    55  40.142
+   156 epicenter=[40.142,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=402.924s,misfit(average)=14.390s
+
+    56  40.152
+   157 epicenter=[40.152,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=402.099s,misfit(average)=14.361s
+
+    57  40.162
+   158 epicenter=[40.162,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=401.313s,misfit(average)=14.333s
+
+    58  40.172
+   159 epicenter=[40.172,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=400.518s,misfit(average)=14.304s
+   160 epicenter=[40.172,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=400.489s,misfit(average)=14.303s
+
+    59  40.182
+   161 epicenter=[40.182,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=399.714s,misfit(average)=14.276s
+   162 epicenter=[40.182,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=399.624s,misfit(average)=14.272s
+
+    60  40.192
+   163 epicenter=[40.192,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=398.901s,misfit(average)=14.246s
+   164 epicenter=[40.192,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=398.750s,misfit(average)=14.241s
+
+    61  40.202
+   165 epicenter=[40.202,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=398.079s,misfit(average)=14.217s
+   166 epicenter=[40.202,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=397.867s,misfit(average)=14.210s
+
+    62  40.212
+   167 epicenter=[40.212,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=397.247s,misfit(average)=14.187s
+   168 epicenter=[40.212,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=396.975s,misfit(average)=14.178s
+
+    63  40.222
+   169 epicenter=[40.222,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=396.405s,misfit(average)=14.157s
+   170 epicenter=[40.222,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=396.074s,misfit(average)=14.146s
+
+    64  40.232
+   171 epicenter=[40.232,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=395.555s,misfit(average)=14.127s
+   172 epicenter=[40.232,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=395.164s,misfit(average)=14.113s
+
+    65  40.242
+   173 epicenter=[40.242,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=394.694s,misfit(average)=14.096s
+   174 epicenter=[40.242,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=394.245s,misfit(average)=14.080s
+
+    66  40.252
+   175 epicenter=[40.252,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=393.825s,misfit(average)=14.065s
+   176 epicenter=[40.252,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=393.317s,misfit(average)=14.047s
+
+    67  40.262
+   177 epicenter=[40.262,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=392.946s,misfit(average)=14.034s
+   178 epicenter=[40.262,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=392.380s,misfit(average)=14.014s
+
+    68  40.272
+   179 epicenter=[40.272,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=392.057s,misfit(average)=14.002s
+   180 epicenter=[40.272,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=391.434s,misfit(average)=13.980s
+
+    69  40.282
+   181 epicenter=[40.282,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=391.159s,misfit(average)=13.970s
+   182 epicenter=[40.282,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=390.498s,misfit(average)=13.946s
+
+    70  40.292
+   183 epicenter=[40.292,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=390.251s,misfit(average)=13.938s
+   184 epicenter=[40.292,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=389.622s,misfit(average)=13.915s
+
+    71  40.302
+   185 epicenter=[40.302,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=389.334s,misfit(average)=13.905s
+   186 epicenter=[40.302,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=388.737s,misfit(average)=13.883s
+
+    72  40.312
+   187 epicenter=[40.312,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=388.408s,misfit(average)=13.872s
+   188 epicenter=[40.312,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=387.842s,misfit(average)=13.852s
+
+    73  40.322
+   189 epicenter=[40.322,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=387.472s,misfit(average)=13.838s
+   190 epicenter=[40.322,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=386.938s,misfit(average)=13.819s
+
+    74  40.332
+   191 epicenter=[40.332,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=386.526s,misfit(average)=13.805s
+   192 epicenter=[40.332,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=386.026s,misfit(average)=13.787s
+
+    75  40.342
+   193 epicenter=[40.342,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=385.572s,misfit(average)=13.770s
+   194 epicenter=[40.342,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=385.104s,misfit(average)=13.754s
+
+    76  40.352
+   195 epicenter=[40.352,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=384.607s,misfit(average)=13.736s
+   196 epicenter=[40.352,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=384.173s,misfit(average)=13.720s
+
+    77  40.362
+   197 epicenter=[40.362,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=383.634s,misfit(average)=13.701s
+   198 epicenter=[40.362,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=383.233s,misfit(average)=13.687s
+
+    78  40.372
+   199 epicenter=[40.372,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=382.651s,misfit(average)=13.666s
+   200 epicenter=[40.372,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=382.284s,misfit(average)=13.653s
+
+    79  40.382
+   201 epicenter=[40.382,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=381.659s,misfit(average)=13.631s
+   202 epicenter=[40.382,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=381.326s,misfit(average)=13.619s
+   203 epicenter=[40.382,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=381.298s,misfit(average)=13.618s
+
+    80  40.392
+   204 epicenter=[40.392,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=380.657s,misfit(average)=13.595s
+   205 epicenter=[40.392,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=380.359s,misfit(average)=13.584s
+   206 epicenter=[40.392,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=380.283s,misfit(average)=13.582s
+
+    81  40.402
+   207 epicenter=[40.402,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=379.653s,misfit(average)=13.559s
+   208 epicenter=[40.402,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=379.383s,misfit(average)=13.549s
+   209 epicenter=[40.402,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=379.260s,misfit(average)=13.545s
+
+    82  40.412
+   210 epicenter=[40.412,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=378.672s,misfit(average)=13.524s
+   211 epicenter=[40.412,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=378.399s,misfit(average)=13.514s
+   212 epicenter=[40.412,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=378.230s,misfit(average)=13.508s
+
+    83  40.422
+   213 epicenter=[40.422,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=377.680s,misfit(average)=13.489s
+   214 epicenter=[40.422,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=377.406s,misfit(average)=13.479s
+   215 epicenter=[40.422,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=377.226s,misfit(average)=13.472s
+
+    84  40.432
+   216 epicenter=[40.432,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=376.679s,misfit(average)=13.453s
+   217 epicenter=[40.432,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=376.404s,misfit(average)=13.443s
+   218 epicenter=[40.432,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=376.257s,misfit(average)=13.438s
+
+    85  40.442
+   219 epicenter=[40.442,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=375.668s,misfit(average)=13.417s
+   220 epicenter=[40.442,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=375.394s,misfit(average)=13.407s
+   221 epicenter=[40.442,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=375.281s,misfit(average)=13.403s
+
+    86  40.452
+   222 epicenter=[40.452,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=374.647s,misfit(average)=13.380s
+   223 epicenter=[40.452,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=374.376s,misfit(average)=13.371s
+   224 epicenter=[40.452,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=374.296s,misfit(average)=13.368s
+
+    87  40.462
+   225 epicenter=[40.462,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=373.616s,misfit(average)=13.343s
+   226 epicenter=[40.462,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=373.349s,misfit(average)=13.334s
+   227 epicenter=[40.462,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=373.304s,misfit(average)=13.332s
+
+    88  40.472
+   228 epicenter=[40.472,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=372.575s,misfit(average)=13.306s
+   229 epicenter=[40.472,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=372.314s,misfit(average)=13.297s
+   230 epicenter=[40.472,77.747],depth= 0.000km,velo= 6.000km/s,misfit(sum)=372.303s,misfit(average)=13.297s
+
+    89  40.482
+   231 epicenter=[40.482,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=371.524s,misfit(average)=13.269s
+   232 epicenter=[40.482,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=371.271s,misfit(average)=13.260s
+
+    90  40.492
+   233 epicenter=[40.492,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=370.464s,misfit(average)=13.231s
+   234 epicenter=[40.492,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=370.219s,misfit(average)=13.222s
+
+    91  40.502
+   235 epicenter=[40.502,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=369.393s,misfit(average)=13.193s
+   236 epicenter=[40.502,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=369.161s,misfit(average)=13.184s
+
+    92  40.512
+   237 epicenter=[40.512,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=368.313s,misfit(average)=13.154s
+   238 epicenter=[40.512,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=368.094s,misfit(average)=13.146s
+
+    93  40.522
+   239 epicenter=[40.522,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=367.224s,misfit(average)=13.115s
+   240 epicenter=[40.522,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=367.020s,misfit(average)=13.108s
+
+    94  40.532
+   241 epicenter=[40.532,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=366.125s,misfit(average)=13.076s
+   242 epicenter=[40.532,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=365.938s,misfit(average)=13.069s
+
+    95  40.542
+   243 epicenter=[40.542,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=365.016s,misfit(average)=13.036s
+   244 epicenter=[40.542,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=364.850s,misfit(average)=13.030s
+
+    96  40.552
+   245 epicenter=[40.552,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=363.899s,misfit(average)=12.996s
+   246 epicenter=[40.552,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=363.754s,misfit(average)=12.991s
+
+    97  40.562
+   247 epicenter=[40.562,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=363.689s,misfit(average)=12.989s
+   248 epicenter=[40.562,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=362.772s,misfit(average)=12.956s
+   249 epicenter=[40.562,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=362.651s,misfit(average)=12.952s
+
+    98  40.572
+   250 epicenter=[40.572,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=362.511s,misfit(average)=12.947s
+   251 epicenter=[40.572,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=361.635s,misfit(average)=12.916s
+   252 epicenter=[40.572,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=361.542s,misfit(average)=12.912s
+
+    99  40.582
+   253 epicenter=[40.582,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=361.323s,misfit(average)=12.904s
+   254 epicenter=[40.582,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=360.490s,misfit(average)=12.875s
+   255 epicenter=[40.582,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=360.426s,misfit(average)=12.872s
+
+   100  40.592
+   256 epicenter=[40.592,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=360.127s,misfit(average)=12.862s
+   257 epicenter=[40.592,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=359.336s,misfit(average)=12.833s
+   258 epicenter=[40.592,77.747],depth= 0.000km,velo= 5.800km/s,misfit(sum)=359.303s,misfit(average)=12.832s
+
+   101  40.602
+   259 epicenter=[40.602,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=358.921s,misfit(average)=12.819s
+   260 epicenter=[40.602,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=358.174s,misfit(average)=12.792s
+
+   102  40.612
+   261 epicenter=[40.612,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=357.706s,misfit(average)=12.775s
+   262 epicenter=[40.612,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=357.002s,misfit(average)=12.750s
+
+   103  40.622
+   263 epicenter=[40.622,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=356.482s,misfit(average)=12.732s
+   264 epicenter=[40.622,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=355.822s,misfit(average)=12.708s
+
+   104  40.632
+   265 epicenter=[40.632,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=355.250s,misfit(average)=12.687s
+   266 epicenter=[40.632,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=354.634s,misfit(average)=12.665s
+
+   105  40.642
+   267 epicenter=[40.642,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=354.624s,misfit(average)=12.665s
+   268 epicenter=[40.642,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=354.009s,misfit(average)=12.643s
+   269 epicenter=[40.642,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=353.437s,misfit(average)=12.623s
+
+   106  40.652
+   270 epicenter=[40.652,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=353.327s,misfit(average)=12.619s
+   271 epicenter=[40.652,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=352.759s,misfit(average)=12.599s
+   272 epicenter=[40.652,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=352.232s,misfit(average)=12.580s
+
+   107  40.662
+   273 epicenter=[40.662,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=352.021s,misfit(average)=12.572s
+   274 epicenter=[40.662,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=351.501s,misfit(average)=12.554s
+   275 epicenter=[40.662,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=351.019s,misfit(average)=12.536s
+
+   108  40.672
+   276 epicenter=[40.672,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=350.706s,misfit(average)=12.525s
+   277 epicenter=[40.672,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=350.235s,misfit(average)=12.508s
+   278 epicenter=[40.672,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=349.798s,misfit(average)=12.493s
+
+   109  40.682
+   279 epicenter=[40.682,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=349.383s,misfit(average)=12.478s
+   280 epicenter=[40.682,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=348.962s,misfit(average)=12.463s
+   281 epicenter=[40.682,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=348.570s,misfit(average)=12.449s
+
+   110  40.692
+   282 epicenter=[40.692,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=348.454s,misfit(average)=12.445s
+   283 epicenter=[40.692,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=348.052s,misfit(average)=12.430s
+   284 epicenter=[40.692,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=347.680s,misfit(average)=12.417s
+   285 epicenter=[40.692,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=347.334s,misfit(average)=12.405s
+
+   111  40.702
+   286 epicenter=[40.702,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=347.062s,misfit(average)=12.395s
+   287 epicenter=[40.702,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=346.713s,misfit(average)=12.383s
+   288 epicenter=[40.702,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=346.391s,misfit(average)=12.371s
+   289 epicenter=[40.702,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=346.091s,misfit(average)=12.360s
+
+   112  40.712
+   290 epicenter=[40.712,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=345.981s,misfit(average)=12.356s
+   291 epicenter=[40.712,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=345.661s,misfit(average)=12.345s
+   292 epicenter=[40.712,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=345.367s,misfit(average)=12.335s
+   293 epicenter=[40.712,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=345.094s,misfit(average)=12.325s
+   294 epicenter=[40.712,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=344.840s,misfit(average)=12.316s
+
+   113  40.722
+   295 epicenter=[40.722,77.747],depth= 0.000km,velo= 4.600km/s,misfit(sum)=344.797s,misfit(average)=12.314s
+   296 epicenter=[40.722,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=344.514s,misfit(average)=12.304s
+   297 epicenter=[40.722,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=344.253s,misfit(average)=12.295s
+   298 epicenter=[40.722,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=344.013s,misfit(average)=12.286s
+   299 epicenter=[40.722,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=343.790s,misfit(average)=12.278s
+   300 epicenter=[40.722,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=343.583s,misfit(average)=12.271s
+
+   114  40.732
+   301 epicenter=[40.732,77.747],depth= 0.000km,velo= 4.400km/s,misfit(sum)=343.497s,misfit(average)=12.268s
+   302 epicenter=[40.732,77.747],depth= 0.000km,velo= 4.600km/s,misfit(sum)=343.258s,misfit(average)=12.259s
+   303 epicenter=[40.732,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=343.039s,misfit(average)=12.251s
+   304 epicenter=[40.732,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=342.837s,misfit(average)=12.244s
+   305 epicenter=[40.732,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=342.651s,misfit(average)=12.238s
+   306 epicenter=[40.732,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=342.479s,misfit(average)=12.231s
+   307 epicenter=[40.732,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=342.319s,misfit(average)=12.226s
+
+   115  40.742
+   308 epicenter=[40.742,77.747],depth= 0.000km,velo= 4.200km/s,misfit(sum)=342.064s,misfit(average)=12.217s
+   309 epicenter=[40.742,77.747],depth= 0.000km,velo= 4.400km/s,misfit(sum)=341.879s,misfit(average)=12.210s
+   310 epicenter=[40.742,77.747],depth= 0.000km,velo= 4.600km/s,misfit(sum)=341.710s,misfit(average)=12.204s
+   311 epicenter=[40.742,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=341.556s,misfit(average)=12.198s
+   312 epicenter=[40.742,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=341.414s,misfit(average)=12.193s
+   313 epicenter=[40.742,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=341.282s,misfit(average)=12.189s
+   314 epicenter=[40.742,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=341.161s,misfit(average)=12.184s
+   315 epicenter=[40.742,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=341.048s,misfit(average)=12.180s
+
+   116  40.752
+   316 epicenter=[40.752,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=340.479s,misfit(average)=12.160s
+   317 epicenter=[40.752,77.747],depth= 0.000km,velo= 4.200km/s,misfit(sum)=340.361s,misfit(average)=12.156s
+   318 epicenter=[40.752,77.747],depth= 0.000km,velo= 4.400km/s,misfit(sum)=340.253s,misfit(average)=12.152s
+   319 epicenter=[40.752,77.747],depth= 0.000km,velo= 4.600km/s,misfit(sum)=340.155s,misfit(average)=12.148s
+   320 epicenter=[40.752,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=340.066s,misfit(average)=12.145s
+   321 epicenter=[40.752,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=339.983s,misfit(average)=12.142s
+   322 epicenter=[40.752,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=339.907s,misfit(average)=12.140s
+   323 epicenter=[40.752,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=339.836s,misfit(average)=12.137s
+   324 epicenter=[40.752,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=339.771s,misfit(average)=12.135s
+
+   117  40.762
+   325 epicenter=[40.762,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=338.682s,misfit(average)=12.096s
+   326 epicenter=[40.762,77.747],depth= 0.000km,velo= 4.200km/s,misfit(sum)=338.649s,misfit(average)=12.095s
+   327 epicenter=[40.762,77.747],depth= 0.000km,velo= 4.400km/s,misfit(sum)=338.620s,misfit(average)=12.094s
+   328 epicenter=[40.762,77.747],depth= 0.000km,velo= 4.600km/s,misfit(sum)=338.593s,misfit(average)=12.093s
+   329 epicenter=[40.762,77.747],depth= 0.000km,velo= 4.800km/s,misfit(sum)=338.568s,misfit(average)=12.092s
+   330 epicenter=[40.762,77.747],depth= 0.000km,velo= 5.000km/s,misfit(sum)=338.545s,misfit(average)=12.091s
+   331 epicenter=[40.762,77.747],depth= 0.000km,velo= 5.200km/s,misfit(sum)=338.524s,misfit(average)=12.090s
+   332 epicenter=[40.762,77.747],depth= 0.000km,velo= 5.400km/s,misfit(sum)=338.505s,misfit(average)=12.089s
+   333 epicenter=[40.762,77.747],depth= 0.000km,velo= 5.600km/s,misfit(sum)=338.487s,misfit(average)=12.089s
+
+   118  40.772
+   334 epicenter=[40.772,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=336.876s,misfit(average)=12.031s
+
+   119  40.782
+   335 epicenter=[40.782,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=335.063s,misfit(average)=11.967s
+
+   120  40.792
+   336 epicenter=[40.792,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=334.404s,misfit(average)=11.943s
+   337 epicenter=[40.792,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=333.241s,misfit(average)=11.901s
+
+   121  40.802
+   338 epicenter=[40.802,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=331.725s,misfit(average)=11.847s
+   339 epicenter=[40.802,77.747],depth= 0.000km,velo= 4.000km/s,misfit(sum)=331.412s,misfit(average)=11.836s
+
+   122  40.812
+   340 epicenter=[40.812,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=329.132s,misfit(average)=11.755s
+
+   123  40.822
+   341 epicenter=[40.822,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=327.191s,misfit(average)=11.685s
+
+   124  40.832
+   342 epicenter=[40.832,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=325.244s,misfit(average)=11.616s
+
+   125  40.842
+   343 epicenter=[40.842,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=323.300s,misfit(average)=11.546s
+
+   126  40.852
+   344 epicenter=[40.852,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=323.095s,misfit(average)=11.539s
+   345 epicenter=[40.852,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=321.372s,misfit(average)=11.478s
+
+   127  40.862
+   346 epicenter=[40.862,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=320.228s,misfit(average)=11.437s
+   347 epicenter=[40.862,77.747],depth= 0.000km,velo= 3.800km/s,misfit(sum)=319.436s,misfit(average)=11.408s
+
+   128  40.872
+   348 epicenter=[40.872,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=317.466s,misfit(average)=11.338s
+
+   129  40.882
+   349 epicenter=[40.882,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=315.410s,misfit(average)=11.265s
+
+   130  40.892
+   350 epicenter=[40.892,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=313.347s,misfit(average)=11.191s
+
+   131  40.902
+   351 epicenter=[40.902,77.747],depth= 0.000km,velo= 3.400km/s,misfit(sum)=313.281s,misfit(average)=11.189s
+   352 epicenter=[40.902,77.747],depth= 0.000km,velo= 3.600km/s,misfit(sum)=311.279s,misfit(average)=11.117s
+   353 epicenter=[40.902,78.727],depth= 0.000km,velo= 3.200km/s,misfit(sum)=310.994s,misfit(average)=11.107s
+   354 epicenter=[40.902,78.737],depth= 0.000km,velo= 3.200km/s,misfit(sum)=310.577s,misfit(average)=11.092s
+   355 epicenter=[40.902,78.747],depth= 0.000km,velo= 3.000km/s,misfit(sum)=310.282s,misfit(average)=11.081s
+   356 epicenter=[40.902,78.757],depth= 0.000km,velo= 3.000km/s,misfit(sum)=309.391s,misfit(average)=11.050s
+   357 epicenter=[40.902,78.767],depth= 0.000km,velo= 3.000km/s,misfit(sum)=308.709s,misfit(average)=11.025s
+
+   132  40.912
+   358 epicenter=[40.912,78.677],depth= 0.000km,velo= 3.200km/s,misfit(sum)=308.289s,misfit(average)=11.010s
+   359 epicenter=[40.912,78.687],depth= 0.000km,velo= 3.000km/s,misfit(sum)=308.229s,misfit(average)=11.008s
+   360 epicenter=[40.912,78.687],depth= 0.000km,velo= 3.200km/s,misfit(sum)=307.857s,misfit(average)=10.995s
+   361 epicenter=[40.912,78.697],depth= 0.000km,velo= 3.000km/s,misfit(sum)=307.385s,misfit(average)=10.978s
+   362 epicenter=[40.912,78.707],depth= 0.000km,velo= 3.000km/s,misfit(sum)=306.525s,misfit(average)=10.947s
+   363 epicenter=[40.912,78.717],depth= 0.000km,velo= 3.000km/s,misfit(sum)=305.767s,misfit(average)=10.920s
+   364 epicenter=[40.912,78.727],depth= 0.000km,velo= 3.000km/s,misfit(sum)=305.285s,misfit(average)=10.903s
+   365 epicenter=[40.912,78.737],depth= 0.000km,velo= 3.000km/s,misfit(sum)=304.797s,misfit(average)=10.886s
+   366 epicenter=[40.912,78.747],depth= 0.000km,velo= 3.000km/s,misfit(sum)=304.302s,misfit(average)=10.868s
+   367 epicenter=[40.912,78.757],depth= 0.000km,velo= 3.000km/s,misfit(sum)=303.802s,misfit(average)=10.850s
+   368 epicenter=[40.912,78.767],depth= 0.000km,velo= 3.000km/s,misfit(sum)=303.554s,misfit(average)=10.841s
+
+   133  40.922
+   369 epicenter=[40.922,78.667],depth= 0.000km,velo= 3.000km/s,misfit(sum)=303.105s,misfit(average)=10.825s
+   370 epicenter=[40.922,78.677],depth= 0.000km,velo= 3.000km/s,misfit(sum)=302.606s,misfit(average)=10.807s
+   371 epicenter=[40.922,78.687],depth= 0.000km,velo= 3.000km/s,misfit(sum)=302.103s,misfit(average)=10.789s
+   372 epicenter=[40.922,78.697],depth= 0.000km,velo= 3.000km/s,misfit(sum)=301.594s,misfit(average)=10.771s
+   373 epicenter=[40.922,78.707],depth= 0.000km,velo= 3.000km/s,misfit(sum)=301.080s,misfit(average)=10.753s
+   374 epicenter=[40.922,78.717],depth= 0.000km,velo= 3.000km/s,misfit(sum)=300.560s,misfit(average)=10.734s
+   375 epicenter=[40.922,78.727],depth= 0.000km,velo= 3.000km/s,misfit(sum)=300.036s,misfit(average)=10.716s
+   376 epicenter=[40.922,78.737],depth= 0.000km,velo= 3.000km/s,misfit(sum)=299.505s,misfit(average)=10.697s
+   377 epicenter=[40.922,78.747],depth= 0.000km,velo= 3.000km/s,misfit(sum)=298.969s,misfit(average)=10.677s
+   378 epicenter=[40.922,78.757],depth= 0.000km,velo= 3.000km/s,misfit(sum)=298.426s,misfit(average)=10.658s
+   379 epicenter=[40.922,78.767],depth= 0.000km,velo= 2.800km/s,misfit(sum)=298.077s,misfit(average)=10.646s
+   380 epicenter=[40.922,78.777],depth= 0.000km,velo= 2.800km/s,misfit(sum)=296.974s,misfit(average)=10.606s
+   381 epicenter=[40.922,78.787],depth= 0.000km,velo= 2.800km/s,misfit(sum)=296.663s,misfit(average)=10.595s
+
+   134  40.932
+   382 epicenter=[40.932,78.697],depth= 0.000km,velo= 3.000km/s,misfit(sum)=296.464s,misfit(average)=10.588s
+   383 epicenter=[40.932,78.707],depth= 0.000km,velo= 3.000km/s,misfit(sum)=295.908s,misfit(average)=10.568s
+   384 epicenter=[40.932,78.717],depth= 0.000km,velo= 2.800km/s,misfit(sum)=295.617s,misfit(average)=10.558s
+   385 epicenter=[40.932,78.717],depth= 0.000km,velo= 3.000km/s,misfit(sum)=295.348s,misfit(average)=10.548s
+   386 epicenter=[40.932,78.727],depth= 0.000km,velo= 2.800km/s,misfit(sum)=294.538s,misfit(average)=10.519s
+   387 epicenter=[40.932,78.737],depth= 0.000km,velo= 2.800km/s,misfit(sum)=293.441s,misfit(average)=10.480s
+   388 epicenter=[40.932,78.747],depth= 0.000km,velo= 2.800km/s,misfit(sum)=292.325s,misfit(average)=10.440s
+   389 epicenter=[40.932,78.757],depth= 0.000km,velo= 2.800km/s,misfit(sum)=291.266s,misfit(average)=10.402s
+   390 epicenter=[40.932,78.767],depth= 0.000km,velo= 2.800km/s,misfit(sum)=290.638s,misfit(average)=10.380s
+   391 epicenter=[40.932,78.777],depth= 0.000km,velo= 2.800km/s,misfit(sum)=290.017s,misfit(average)=10.358s
+
+   135  40.942
+   392 epicenter=[40.942,78.707],depth= 0.000km,velo= 2.800km/s,misfit(sum)=289.017s,misfit(average)=10.322s
+   393 epicenter=[40.942,78.717],depth= 0.000km,velo= 2.800km/s,misfit(sum)=288.139s,misfit(average)=10.291s
+   394 epicenter=[40.942,78.727],depth= 0.000km,velo= 2.800km/s,misfit(sum)=287.489s,misfit(average)=10.267s
+   395 epicenter=[40.942,78.737],depth= 0.000km,velo= 2.800km/s,misfit(sum)=286.833s,misfit(average)=10.244s
+   396 epicenter=[40.942,78.747],depth= 0.000km,velo= 2.800km/s,misfit(sum)=286.171s,misfit(average)=10.220s
+   397 epicenter=[40.942,78.757],depth= 0.000km,velo= 2.800km/s,misfit(sum)=285.503s,misfit(average)=10.197s
+   398 epicenter=[40.942,78.767],depth= 0.000km,velo= 2.800km/s,misfit(sum)=284.829s,misfit(average)=10.172s
+   399 epicenter=[40.942,78.777],depth= 0.000km,velo= 2.800km/s,misfit(sum)=284.824s,misfit(average)=10.172s
+
+   136  40.952
+   400 epicenter=[40.952,78.687],depth= 0.000km,velo= 2.800km/s,misfit(sum)=284.589s,misfit(average)=10.164s
+   401 epicenter=[40.952,78.697],depth= 0.000km,velo= 2.800km/s,misfit(sum)=283.913s,misfit(average)=10.140s
+   402 epicenter=[40.952,78.707],depth= 0.000km,velo= 2.800km/s,misfit(sum)=283.232s,misfit(average)=10.115s
+   403 epicenter=[40.952,78.717],depth= 0.000km,velo= 2.800km/s,misfit(sum)=282.546s,misfit(average)=10.091s
+   404 epicenter=[40.952,78.727],depth= 0.000km,velo= 2.800km/s,misfit(sum)=281.853s,misfit(average)=10.066s
+   405 epicenter=[40.952,78.737],depth= 0.000km,velo= 2.800km/s,misfit(sum)=281.155s,misfit(average)=10.041s
+   406 epicenter=[40.952,78.747],depth= 0.000km,velo= 2.800km/s,misfit(sum)=280.451s,misfit(average)=10.016s
+   407 epicenter=[40.952,78.757],depth= 0.000km,velo= 2.600km/s,misfit(sum)=280.224s,misfit(average)=10.008s
+   408 epicenter=[40.952,78.757],depth= 0.000km,velo= 2.800km/s,misfit(sum)=279.741s,misfit(average)= 9.991s
+   409 epicenter=[40.952,78.767],depth= 0.000km,velo= 2.600km/s,misfit(sum)=278.883s,misfit(average)= 9.960s
+   410 epicenter=[40.952,78.777],depth= 0.000km,velo= 2.600km/s,misfit(sum)=277.519s,misfit(average)= 9.911s
+   411 epicenter=[40.952,78.787],depth= 0.000km,velo= 2.600km/s,misfit(sum)=277.115s,misfit(average)= 9.897s
+
+   137  40.962
+   412 epicenter=[40.962,78.717],depth= 0.000km,velo= 2.600km/s,misfit(sum)=277.015s,misfit(average)= 9.893s
+   413 epicenter=[40.962,78.717],depth= 0.000km,velo= 2.800km/s,misfit(sum)=276.951s,misfit(average)= 9.891s
+   414 epicenter=[40.962,78.727],depth= 0.000km,velo= 2.600km/s,misfit(sum)=275.700s,misfit(average)= 9.846s
+   415 epicenter=[40.962,78.737],depth= 0.000km,velo= 2.600km/s,misfit(sum)=274.365s,misfit(average)= 9.799s
+   416 epicenter=[40.962,78.747],depth= 0.000km,velo= 2.600km/s,misfit(sum)=273.010s,misfit(average)= 9.750s
+   417 epicenter=[40.962,78.757],depth= 0.000km,velo= 2.600km/s,misfit(sum)=271.999s,misfit(average)= 9.714s
+   418 epicenter=[40.962,78.767],depth= 0.000km,velo= 2.600km/s,misfit(sum)=271.212s,misfit(average)= 9.686s
+   419 epicenter=[40.962,78.777],depth= 0.000km,velo= 2.600km/s,misfit(sum)=270.811s,misfit(average)= 9.672s
+
+   138  40.972
+   420 epicenter=[40.972,78.707],depth= 0.000km,velo= 2.600km/s,misfit(sum)=270.004s,misfit(average)= 9.643s
+   421 epicenter=[40.972,78.717],depth= 0.000km,velo= 2.600km/s,misfit(sum)=268.994s,misfit(average)= 9.607s
+   422 epicenter=[40.972,78.727],depth= 0.000km,velo= 2.600km/s,misfit(sum)=268.194s,misfit(average)= 9.578s
+   423 epicenter=[40.972,78.737],depth= 0.000km,velo= 2.600km/s,misfit(sum)=267.387s,misfit(average)= 9.550s
+   424 epicenter=[40.972,78.747],depth= 0.000km,velo= 2.600km/s,misfit(sum)=266.573s,misfit(average)= 9.520s
+   425 epicenter=[40.972,78.757],depth= 0.000km,velo= 2.600km/s,misfit(sum)=265.752s,misfit(average)= 9.491s
+   426 epicenter=[40.972,78.767],depth= 0.000km,velo= 2.600km/s,misfit(sum)=264.924s,misfit(average)= 9.462s
+   427 epicenter=[40.972,78.777],depth= 0.000km,velo= 2.400km/s,misfit(sum)=264.297s,misfit(average)= 9.439s
+   428 epicenter=[40.972,78.787],depth= 0.000km,velo= 2.400km/s,misfit(sum)=263.836s,misfit(average)= 9.423s
+   429 epicenter=[40.972,78.797],depth= 0.000km,velo= 2.400km/s,misfit(sum)=263.450s,misfit(average)= 9.409s
+   430 epicenter=[40.972,78.807],depth= 0.000km,velo= 2.400km/s,misfit(sum)=263.427s,misfit(average)= 9.408s
+
+   139  40.982
+   431 epicenter=[40.982,78.717],depth= 0.000km,velo= 2.600km/s,misfit(sum)=262.906s,misfit(average)= 9.390s
+   432 epicenter=[40.982,78.727],depth= 0.000km,velo= 2.600km/s,misfit(sum)=262.066s,misfit(average)= 9.360s
+   433 epicenter=[40.982,78.737],depth= 0.000km,velo= 2.400km/s,misfit(sum)=261.376s,misfit(average)= 9.335s
+   434 epicenter=[40.982,78.737],depth= 0.000km,velo= 2.600km/s,misfit(sum)=261.220s,misfit(average)= 9.329s
+   435 epicenter=[40.982,78.747],depth= 0.000km,velo= 2.400km/s,misfit(sum)=259.788s,misfit(average)= 9.278s
+   436 epicenter=[40.982,78.757],depth= 0.000km,velo= 2.400km/s,misfit(sum)=258.178s,misfit(average)= 9.221s
+   437 epicenter=[40.982,78.767],depth= 0.000km,velo= 2.400km/s,misfit(sum)=256.546s,misfit(average)= 9.162s
+   438 epicenter=[40.982,78.777],depth= 0.000km,velo= 2.400km/s,misfit(sum)=255.445s,misfit(average)= 9.123s
+   439 epicenter=[40.982,78.787],depth= 0.000km,velo= 2.400km/s,misfit(sum)=255.277s,misfit(average)= 9.117s
+
+   140  40.992
+   440 epicenter=[40.992,78.727],depth= 0.000km,velo= 2.400km/s,misfit(sum)=253.836s,misfit(average)= 9.066s
+   441 epicenter=[40.992,78.737],depth= 0.000km,velo= 2.400km/s,misfit(sum)=252.213s,misfit(average)= 9.008s
+   442 epicenter=[40.992,78.747],depth= 0.000km,velo= 2.400km/s,misfit(sum)=250.568s,misfit(average)= 8.949s
+   443 epicenter=[40.992,78.757],depth= 0.000km,velo= 2.400km/s,misfit(sum)=249.534s,misfit(average)= 8.912s
+   444 epicenter=[40.992,78.767],depth= 0.000km,velo= 2.400km/s,misfit(sum)=248.552s,misfit(average)= 8.877s
+   445 epicenter=[40.992,78.787],depth= 0.000km,velo= 2.200km/s,misfit(sum)=248.292s,misfit(average)= 8.868s
+   446 epicenter=[40.992,78.797],depth= 0.000km,velo= 2.200km/s,misfit(sum)=247.756s,misfit(average)= 8.848s
+   447 epicenter=[40.992,78.807],depth= 0.000km,velo= 2.200km/s,misfit(sum)=247.192s,misfit(average)= 8.828s
+   448 epicenter=[40.992,78.817],depth= 0.000km,velo= 2.200km/s,misfit(sum)=246.869s,misfit(average)= 8.817s
+
+   141  41.002
+   449 epicenter=[41.002,78.717],depth= 0.000km,velo= 2.400km/s,misfit(sum)=246.793s,misfit(average)= 8.814s
+   450 epicenter=[41.002,78.727],depth= 0.000km,velo= 2.400km/s,misfit(sum)=245.801s,misfit(average)= 8.779s
+   451 epicenter=[41.002,78.737],depth= 0.000km,velo= 2.400km/s,misfit(sum)=244.800s,misfit(average)= 8.743s
+   452 epicenter=[41.002,78.747],depth= 0.000km,velo= 2.200km/s,misfit(sum)=244.212s,misfit(average)= 8.722s
+   453 epicenter=[41.002,78.747],depth= 0.000km,velo= 2.400km/s,misfit(sum)=243.792s,misfit(average)= 8.707s
+   454 epicenter=[41.002,78.757],depth= 0.000km,velo= 2.200km/s,misfit(sum)=242.332s,misfit(average)= 8.655s
+   455 epicenter=[41.002,78.767],depth= 0.000km,velo= 2.200km/s,misfit(sum)=240.428s,misfit(average)= 8.587s
+   456 epicenter=[41.002,78.777],depth= 0.000km,velo= 2.200km/s,misfit(sum)=239.332s,misfit(average)= 8.548s
+   457 epicenter=[41.002,78.787],depth= 0.000km,velo= 2.200km/s,misfit(sum)=238.768s,misfit(average)= 8.527s
+   458 epicenter=[41.002,78.797],depth= 0.000km,velo= 2.200km/s,misfit(sum)=238.176s,misfit(average)= 8.506s
+   459 epicenter=[41.002,78.807],depth= 0.000km,velo= 2.200km/s,misfit(sum)=237.556s,misfit(average)= 8.484s
+   460 epicenter=[41.002,78.827],depth= 0.000km,velo= 2.000km/s,misfit(sum)=237.453s,misfit(average)= 8.480s
+   461 epicenter=[41.002,78.837],depth= 0.000km,velo= 2.000km/s,misfit(sum)=237.432s,misfit(average)= 8.480s
+
+   142  41.012
+   462 epicenter=[41.012,78.737],depth= 0.000km,velo= 2.200km/s,misfit(sum)=236.103s,misfit(average)= 8.432s
+   463 epicenter=[41.012,78.747],depth= 0.000km,velo= 2.200km/s,misfit(sum)=234.187s,misfit(average)= 8.364s
+   464 epicenter=[41.012,78.757],depth= 0.000km,velo= 2.200km/s,misfit(sum)=232.247s,misfit(average)= 8.295s
+   465 epicenter=[41.012,78.767],depth= 0.000km,velo= 2.200km/s,misfit(sum)=230.502s,misfit(average)= 8.232s
+   466 epicenter=[41.012,78.777],depth= 0.000km,velo= 2.000km/s,misfit(sum)=230.498s,misfit(average)= 8.232s
+   467 epicenter=[41.012,78.777],depth= 0.000km,velo= 2.200km/s,misfit(sum)=229.907s,misfit(average)= 8.211s
+   468 epicenter=[41.012,78.787],depth= 0.000km,velo= 2.000km/s,misfit(sum)=229.814s,misfit(average)= 8.208s
+   469 epicenter=[41.012,78.797],depth= 0.000km,velo= 2.000km/s,misfit(sum)=229.101s,misfit(average)= 8.182s
+   470 epicenter=[41.012,78.807],depth= 0.000km,velo= 2.000km/s,misfit(sum)=228.358s,misfit(average)= 8.156s
+   471 epicenter=[41.012,78.817],depth= 0.000km,velo= 2.000km/s,misfit(sum)=227.585s,misfit(average)= 8.128s
+   472 epicenter=[41.012,78.827],depth= 0.000km,velo= 2.000km/s,misfit(sum)=227.021s,misfit(average)= 8.108s
+
+   143  41.022
+   473 epicenter=[41.022,78.737],depth= 0.000km,velo= 2.200km/s,misfit(sum)=226.158s,misfit(average)= 8.077s
+   474 epicenter=[41.022,78.747],depth= 0.000km,velo= 2.000km/s,misfit(sum)=225.602s,misfit(average)= 8.057s
+   475 epicenter=[41.022,78.747],depth= 0.000km,velo= 2.200km/s,misfit(sum)=224.237s,misfit(average)= 8.008s
+   476 epicenter=[41.022,78.757],depth= 0.000km,velo= 2.000km/s,misfit(sum)=223.404s,misfit(average)= 7.979s
+   477 epicenter=[41.022,78.757],depth= 0.000km,velo= 2.200km/s,misfit(sum)=223.042s,misfit(average)= 7.966s
+   478 epicenter=[41.022,78.767],depth= 0.000km,velo= 2.000km/s,misfit(sum)=221.179s,misfit(average)= 7.899s
+   479 epicenter=[41.022,78.777],depth= 0.000km,velo= 2.000km/s,misfit(sum)=220.177s,misfit(average)= 7.863s
+   480 epicenter=[41.022,78.787],depth= 0.000km,velo= 2.000km/s,misfit(sum)=219.430s,misfit(average)= 7.837s
+   481 epicenter=[41.022,78.797],depth= 0.000km,velo= 2.000km/s,misfit(sum)=218.655s,misfit(average)= 7.809s
+   482 epicenter=[41.022,78.807],depth= 0.000km,velo= 2.000km/s,misfit(sum)=217.851s,misfit(average)= 7.780s
+   483 epicenter=[41.022,78.817],depth= 0.000km,velo= 2.000km/s,misfit(sum)=217.018s,misfit(average)= 7.751s
+   484 epicenter=[41.022,78.837],depth= 0.000km,velo= 1.800km/s,misfit(sum)=216.586s,misfit(average)= 7.735s
+   485 epicenter=[41.022,78.847],depth= 0.000km,velo= 1.800km/s,misfit(sum)=216.331s,misfit(average)= 7.726s
+
+   144  41.032
+   486 epicenter=[41.032,78.747],depth= 0.000km,velo= 2.000km/s,misfit(sum)=214.625s,misfit(average)= 7.665s
+   487 epicenter=[41.032,78.757],depth= 0.000km,velo= 2.000km/s,misfit(sum)=212.364s,misfit(average)= 7.584s
+   488 epicenter=[41.032,78.767],depth= 0.000km,velo= 2.000km/s,misfit(sum)=210.685s,misfit(average)= 7.524s
+   489 epicenter=[41.032,78.777],depth= 0.000km,velo= 2.000km/s,misfit(sum)=209.903s,misfit(average)= 7.497s
+   490 epicenter=[41.032,78.787],depth= 0.000km,velo= 2.000km/s,misfit(sum)=209.093s,misfit(average)= 7.468s
+   491 epicenter=[41.032,78.797],depth= 0.000km,velo= 1.800km/s,misfit(sum)=209.080s,misfit(average)= 7.467s
+   492 epicenter=[41.032,78.797],depth= 0.000km,velo= 2.000km/s,misfit(sum)=208.256s,misfit(average)= 7.438s
+   493 epicenter=[41.032,78.807],depth= 0.000km,velo= 1.800km/s,misfit(sum)=208.086s,misfit(average)= 7.432s
+   494 epicenter=[41.032,78.807],depth= 0.000km,velo= 2.000km/s,misfit(sum)=207.392s,misfit(average)= 7.407s
+   495 epicenter=[41.032,78.817],depth= 0.000km,velo= 1.800km/s,misfit(sum)=207.058s,misfit(average)= 7.395s
+   496 epicenter=[41.032,78.827],depth= 0.000km,velo= 1.800km/s,misfit(sum)=205.994s,misfit(average)= 7.357s
+   497 epicenter=[41.032,78.837],depth= 0.000km,velo= 1.800km/s,misfit(sum)=205.203s,misfit(average)= 7.329s
+
+   145  41.042
+   498 epicenter=[41.042,78.747],depth= 0.000km,velo= 2.000km/s,misfit(sum)=203.679s,misfit(average)= 7.274s
+   499 epicenter=[41.042,78.757],depth= 0.000km,velo= 2.000km/s,misfit(sum)=201.356s,misfit(average)= 7.191s
+   500 epicenter=[41.042,78.767],depth= 0.000km,velo= 2.000km/s,misfit(sum)=200.523s,misfit(average)= 7.162s
+   501 epicenter=[41.042,78.777],depth= 0.000km,velo= 2.000km/s,misfit(sum)=199.677s,misfit(average)= 7.131s
+   502 epicenter=[41.042,78.787],depth= 0.000km,velo= 1.800km/s,misfit(sum)=198.677s,misfit(average)= 7.096s
+   503 epicenter=[41.042,78.797],depth= 0.000km,velo= 1.800km/s,misfit(sum)=197.656s,misfit(average)= 7.059s
+   504 epicenter=[41.042,78.807],depth= 0.000km,velo= 1.800km/s,misfit(sum)=196.602s,misfit(average)= 7.022s
+   505 epicenter=[41.042,78.817],depth= 0.000km,velo= 1.800km/s,misfit(sum)=195.516s,misfit(average)= 6.983s
+   506 epicenter=[41.042,78.827],depth= 0.000km,velo= 1.800km/s,misfit(sum)=195.271s,misfit(average)= 6.974s
+
+   146  41.052
+   507 epicenter=[41.052,78.737],depth= 0.000km,velo= 2.000km/s,misfit(sum)=195.126s,misfit(average)= 6.969s
+   508 epicenter=[41.052,78.747],depth= 0.000km,velo= 2.000km/s,misfit(sum)=192.845s,misfit(average)= 6.887s
+   509 epicenter=[41.052,78.757],depth= 0.000km,velo= 2.000km/s,misfit(sum)=192.304s,misfit(average)= 6.868s
+   510 epicenter=[41.052,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=191.024s,misfit(average)= 6.822s
+   511 epicenter=[41.052,78.777],depth= 0.000km,velo= 1.800km/s,misfit(sum)=188.404s,misfit(average)= 6.729s
+   512 epicenter=[41.052,78.787],depth= 0.000km,velo= 1.800km/s,misfit(sum)=187.366s,misfit(average)= 6.692s
+   513 epicenter=[41.052,78.797],depth= 0.000km,velo= 1.800km/s,misfit(sum)=187.365s,misfit(average)= 6.692s
+   514 epicenter=[41.052,78.807],depth= 0.000km,velo= 1.800km/s,misfit(sum)=187.348s,misfit(average)= 6.691s
+   515 epicenter=[41.052,78.817],depth= 0.000km,velo= 1.800km/s,misfit(sum)=187.314s,misfit(average)= 6.690s
+
+   147  41.062
+   516 epicenter=[41.062,78.737],depth= 0.000km,velo= 2.000km/s,misfit(sum)=186.370s,misfit(average)= 6.656s
+   517 epicenter=[41.062,78.747],depth= 0.000km,velo= 2.000km/s,misfit(sum)=185.211s,misfit(average)= 6.615s
+   518 epicenter=[41.062,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=181.744s,misfit(average)= 6.491s
+   519 epicenter=[41.062,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=180.060s,misfit(average)= 6.431s
+   520 epicenter=[41.062,78.777],depth= 0.000km,velo= 1.800km/s,misfit(sum)=179.469s,misfit(average)= 6.410s
+   521 epicenter=[41.062,78.787],depth= 0.000km,velo= 1.800km/s,misfit(sum)=179.451s,misfit(average)= 6.409s
+   522 epicenter=[41.062,78.797],depth= 0.000km,velo= 1.800km/s,misfit(sum)=179.418s,misfit(average)= 6.408s
+
+   148  41.072
+   523 epicenter=[41.072,78.737],depth= 0.000km,velo= 2.000km/s,misfit(sum)=178.479s,misfit(average)= 6.374s
+   524 epicenter=[41.072,78.747],depth= 0.000km,velo= 1.800km/s,misfit(sum)=177.273s,misfit(average)= 6.331s
+   525 epicenter=[41.072,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=173.162s,misfit(average)= 6.184s
+   526 epicenter=[41.072,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=171.612s,misfit(average)= 6.129s
+   527 epicenter=[41.072,78.777],depth= 0.000km,velo= 1.800km/s,misfit(sum)=171.599s,misfit(average)= 6.129s
+
+   149  41.082
+   528 epicenter=[41.082,78.737],depth= 0.000km,velo= 2.000km/s,misfit(sum)=171.349s,misfit(average)= 6.120s
+   529 epicenter=[41.082,78.747],depth= 0.000km,velo= 1.800km/s,misfit(sum)=169.281s,misfit(average)= 6.046s
+   530 epicenter=[41.082,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=166.372s,misfit(average)= 5.942s
+   531 epicenter=[41.082,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=165.890s,misfit(average)= 5.925s
+
+   150  41.092
+   532 epicenter=[41.092,78.727],depth= 0.000km,velo= 2.000km/s,misfit(sum)=164.706s,misfit(average)= 5.882s
+   533 epicenter=[41.092,78.747],depth= 0.000km,velo= 1.800km/s,misfit(sum)=164.477s,misfit(average)= 5.874s
+   534 epicenter=[41.092,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=162.572s,misfit(average)= 5.806s
+   535 epicenter=[41.092,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=161.392s,misfit(average)= 5.764s
+
+   151  41.102
+   536 epicenter=[41.102,78.727],depth= 0.000km,velo= 2.000km/s,misfit(sum)=161.043s,misfit(average)= 5.752s
+   537 epicenter=[41.102,78.747],depth= 0.000km,velo= 1.800km/s,misfit(sum)=160.015s,misfit(average)= 5.715s
+   538 epicenter=[41.102,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=158.833s,misfit(average)= 5.673s
+   539 epicenter=[41.102,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=157.666s,misfit(average)= 5.631s
+   540 epicenter=[41.102,78.777],depth= 0.000km,velo= 1.800km/s,misfit(sum)=157.492s,misfit(average)= 5.625s
+
+   152  41.112
+   541 epicenter=[41.112,78.737],depth= 0.000km,velo= 1.800km/s,misfit(sum)=157.403s,misfit(average)= 5.622s
+   542 epicenter=[41.112,78.737],depth= 0.000km,velo= 2.000km/s,misfit(sum)=157.341s,misfit(average)= 5.619s
+   543 epicenter=[41.112,78.747],depth= 0.000km,velo= 1.800km/s,misfit(sum)=156.170s,misfit(average)= 5.578s
+   544 epicenter=[41.112,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=155.000s,misfit(average)= 5.536s
+   545 epicenter=[41.112,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=153.846s,misfit(average)= 5.494s
+   546 epicenter=[41.112,78.777],depth= 0.000km,velo= 1.800km/s,misfit(sum)=153.659s,misfit(average)= 5.488s
+
+   153  41.122
+   547 epicenter=[41.122,78.737],depth= 0.000km,velo= 1.800km/s,misfit(sum)=153.412s,misfit(average)= 5.479s
+   548 epicenter=[41.122,78.737],depth= 0.000km,velo= 2.000km/s,misfit(sum)=153.204s,misfit(average)= 5.472s
+   549 epicenter=[41.122,78.757],depth= 0.000km,velo= 1.800km/s,misfit(sum)=153.095s,misfit(average)= 5.468s
+   550 epicenter=[41.122,78.767],depth= 0.000km,velo= 1.800km/s,misfit(sum)=153.055s,misfit(average)= 5.466s
+
+   154  41.132
+   551 epicenter=[41.132,78.707],depth= 0.000km,velo= 2.000km/s,misfit(sum)=152.875s,misfit(average)= 5.460s
+   552 epicenter=[41.132,78.717],depth= 0.000km,velo= 2.000km/s,misfit(sum)=151.769s,misfit(average)= 5.420s
+   553 epicenter=[41.132,78.727],depth= 0.000km,velo= 2.000km/s,misfit(sum)=151.150s,misfit(average)= 5.398s
+
+   155  41.142
+   554 epicenter=[41.142,78.697],depth= 0.000km,velo= 2.000km/s,misfit(sum)=151.127s,misfit(average)= 5.397s
+   555 epicenter=[41.142,78.707],depth= 0.000km,velo= 2.000km/s,misfit(sum)=150.932s,misfit(average)= 5.390s
+   556 epicenter=[41.142,78.717],depth= 0.000km,velo= 2.000km/s,misfit(sum)=150.757s,misfit(average)= 5.384s
+
+   156  41.152
+   557 epicenter=[41.152,78.687],depth= 0.000km,velo= 2.000km/s,misfit(sum)=150.638s,misfit(average)= 5.380s
+   558 epicenter=[41.152,78.697],depth= 0.000km,velo= 2.000km/s,misfit(sum)=150.446s,misfit(average)= 5.373s
+   559 epicenter=[41.152,78.707],depth= 0.000km,velo= 2.000km/s,misfit(sum)=150.271s,misfit(average)= 5.367s
+
+   157  41.162
+   560 epicenter=[41.162,78.677],depth= 0.000km,velo= 2.000km/s,misfit(sum)=150.064s,misfit(average)= 5.359s
+   561 epicenter=[41.162,78.687],depth= 0.000km,velo= 2.000km/s,misfit(sum)=149.873s,misfit(average)= 5.353s
+   562 epicenter=[41.162,78.697],depth= 0.000km,velo= 2.000km/s,misfit(sum)=149.698s,misfit(average)= 5.346s
+   563 epicenter=[41.162,78.707],depth= 0.000km,velo= 2.000km/s,misfit(sum)=149.613s,misfit(average)= 5.343s
+
+   158  41.172
+   564 epicenter=[41.172,78.677],depth= 0.000km,velo= 2.000km/s,misfit(sum)=149.222s,misfit(average)= 5.329s
+   565 epicenter=[41.172,78.687],depth= 0.000km,velo= 2.000km/s,misfit(sum)=149.046s,misfit(average)= 5.323s
+   566 epicenter=[41.172,78.697],depth= 0.000km,velo= 2.000km/s,misfit(sum)=148.898s,misfit(average)= 5.318s
+
+   159  41.182
+   567 epicenter=[41.182,78.667],depth= 0.000km,velo= 2.000km/s,misfit(sum)=148.538s,misfit(average)= 5.305s
+   568 epicenter=[41.182,78.677],depth= 0.000km,velo= 2.000km/s,misfit(sum)=148.323s,misfit(average)= 5.297s
+   569 epicenter=[41.182,78.687],depth= 0.000km,velo= 2.000km/s,misfit(sum)=148.159s,misfit(average)= 5.291s
+
+   160  41.192
+   570 epicenter=[41.192,78.677],depth= 0.000km,velo= 2.000km/s,misfit(sum)=147.890s,misfit(average)= 5.282s
+
+   161  41.202
+   571 epicenter=[41.202,78.637],depth= 0.000km,velo= 2.200km/s,misfit(sum)=147.880s,misfit(average)= 5.281s
+
+   162  41.212
+   572 epicenter=[41.212,78.627],depth= 0.000km,velo= 2.200km/s,misfit(sum)=147.492s,misfit(average)= 5.268s
+
+   163  41.222
+
+   164  41.232
+
+   165  41.242
+
+   166  41.252
+
+   167  41.262
+
+   168  41.272
+
+   169  41.282
+
+   170  41.292
+
+   171  41.302
+
+   172  41.312
+
+   173  41.322
+
+   174  41.332
+
+   175  41.342
+
+   176  41.352
+
+   177  41.362
+
+   178  41.372
+
+   179  41.382
+
+   180  41.392
+
+   181  41.402
+
+   182  41.412
+
+   183  41.422
+
+   184  41.432
+
+   185  41.442
+
+   186  41.452
+
+   187  41.462
+
+   188  41.472
+
+   189  41.482
+
+   190  41.492
+
+   191  41.502
+
+   192  41.512
+
+   193  41.522
+
+   194  41.532
+
+   195  41.542
+
+   196  41.552
+
+   197  41.562
+
+   198  41.572
+
+   199  41.582
+
+   200  41.592
+
+   201  41.602
+
+   202  41.612
+
+   203  41.622
+
+   204  41.632
+
+   205  41.642
+
+   206  41.652
+
+   207  41.662
+
+   208  41.672
+
+   209  41.682
+
+   210  41.692
+
+   211  41.702
+
+   212  41.712
+
+   213  41.722
+
+   214  41.732
+
+   215  41.742
+
+   216  41.752
+
+   217  41.762
+
+   218  41.772
+
+   219  41.782
+
+   220  41.792
+
+   221  41.802
+
+   222  41.812
+
+   223  41.822
+
+   224  41.832
+
+   225  41.842
+
+   226  41.852
+
+   227  41.862
+
+   228  41.872
+
+   229  41.882
+
+   230  41.892
+
+   231  41.902
+
+   232  41.912
+
+   233  41.922
+
+   234  41.932
+
+   235  41.942
+
+   236  41.952
+
+   237  41.962
+
+   238  41.972
+
+   239  41.982
+
+   240  41.992
+
+   241  42.002
+
+   242  42.012
+
+   243  42.022
+
+   244  42.032
+
+   245  42.042
+
+   246  42.052
+
+   247  42.062
+
+   248  42.072
+
+   249  42.082
+
+   250  42.092
+
+   251  42.102
+
+   252  42.112
+
+   253  42.122
+
+   254  42.132
+
+   255  42.142
+
+   256  42.152
+
+   257  42.162
+
+   258  42.172
+
+   259  42.182
+
+   260  42.192
+
+   261  42.202
+
+   262  42.212
+
+   263  42.222
+
+   264  42.232
+
+   265  42.242
+
+   266  42.252
+
+   267  42.262
+
+   268  42.272
+
+   269  42.282
+
+   270  42.292
+
+   271  42.302
+
+   272  42.312
+
+   273  42.322
+
+   274  42.332
+
+   275  42.342
+
+   276  42.352
+
+   277  42.362
+
+   278  42.372
+
+   279  42.382
+
+   280  42.392
+
+   281  42.402
+
+   282  42.412
+
+   283  42.422
+
+   284  42.432
+
+   285  42.442
+
+   286  42.452
+
+   287  42.462
+
+   288  42.472
+
+   289  42.482
+
+   290  42.492
+
+   291  42.502
+
+   292  42.512
+
+   293  42.522
+
+   294  42.532
+
+   295  42.542
+
+   296  42.552
+
+   297  42.562
+
+   298  42.572
+
+   299  42.582
+
+   300  42.592
